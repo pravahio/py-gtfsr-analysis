@@ -1,4 +1,4 @@
-##GTFS analysis package
+##GTFS-Realtime analysis package
 
 ***Query Example***
 ```javascript
